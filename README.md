@@ -1,3 +1,3 @@
 # TypeWriter
  
-<a href=https://rishgod.github.io/TypeWrite/index /> Click HERE </a>
+<a href=https://rishgod.github.io/TypeWriter/index /> Click HERE </a>
