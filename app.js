@@ -25,7 +25,7 @@ const textArray = [
     "“We choose to go to the moon and do the other things, not because they are easy, but because they are hard,",
     "Something you are reading you could be writing",
     `Ya know I hear Iran has no Walmarts
-    Only Targets.`
+    Only Targets.`,
     "If someone told me that owning a house and having a home were two different things I would have made less money and more memories.",
     "It's amazing what you can put up with, as long as you know you only have to go through it once. And really, the difficulties of this life are all like that, because our whole life, from start to finish, only happens once."
 ];
